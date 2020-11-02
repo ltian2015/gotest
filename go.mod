@@ -1,4 +1,5 @@
-module example.com/hello
+module example.com/test
+//////////////////////
 
 go 1.15
 
