@@ -1,7 +1,7 @@
-package hello
+package test
 import(
     "testing"
-    "example.com/hello/world"
+    "example.com/test/world"
 )
 
 /**
