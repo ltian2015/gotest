@@ -1,7 +1,7 @@
 package test
-import(
+import (
+    "localhost/ltian/world"
     "testing"
-    "localhost/ltian/test/world"
 )
 
 /**
