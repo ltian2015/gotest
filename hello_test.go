@@ -1,7 +1,7 @@
 package test
 import(
     "testing"
-    "example.com/test/world"
+    "localhost/ltian/test/world"
 )
 
 /**
