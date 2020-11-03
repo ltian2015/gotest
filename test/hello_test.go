@@ -1,6 +1,6 @@
 package test
 import (
-    "localhost/ltian/world"
+    "localhost/ltian/test/world"
     "testing"
 )
 

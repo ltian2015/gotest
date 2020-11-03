@@ -1,4 +1,4 @@
-module localhost/ltian
+module localhost/ltian/test
 //////////////////////
 
 go 1.15
